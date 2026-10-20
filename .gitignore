@@ -26,3 +26,6 @@ Release/
 .DS_Store
 Thumbs.db
 *.swp
+
+# Local IDE include-path export (machine-specific paths)
+includepathsetttings.xml
